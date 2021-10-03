@@ -1,5 +1,5 @@
 # Dope-Chat-App
-This is a group/personal Chat Website. This is made using Node.js and Socket.io . You can chat with your multiple friends and have fun :) 
+This is a group/personal **Chat Website**. This is made using Node.js and Socket.io . You can chat with your multiple friends and have fun :) 
 
 Steps to follow -
 Enter your name in prompt.
